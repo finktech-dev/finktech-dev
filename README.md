@@ -48,7 +48,7 @@ Gaming, content and social media, entrepreneurship. Getting into economics and f
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=finktech-dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finktech-dev&show_icons=true&hide_border=true&theme=dark&hide=issues&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finktech-dev&theme=github_dark)
 
 ---
 
@@ -117,7 +117,7 @@ Gaming, contenido y redes sociales, emprendedorismo. Metiéndome en economía y 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=finktech-dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finktech-dev&show_icons=true&hide_border=true&theme=dark&hide=issues&count_private=true&locale=es)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finktech-dev&theme=github_dark)
 
 ---
 

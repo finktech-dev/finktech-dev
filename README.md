@@ -1,83 +1,109 @@
+<div align="center">
+
+<a href="https://github.com/finktech-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4200&pause=900&color=A89B85&center=true&vCenter=true&width=620&lines=Me+interesa+c%C3%B3mo+una+palabra+cambia+una+decisi%C3%B3n." alt="Me interesa cómo una palabra cambia una decisión." />
+</a>
+
 # Ariel Fink
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=finktech-dev&style=flat-square&color=grey&label=visitas)
+<sub>Buenos Aires · 19 · Comunicación en la UBA · founder [@tapco](https://tapco.app)</sub>
 
-Tengo 19 años y soy de Buenos Aires, Argentina.
-
-Estudio Ciencias de la Comunicación Social y aprendo desarrollo de forma autodidacta. Me interesa entender cómo se construyen los productos digitales, qué problemas resuelven y cómo afectan a las personas que los usan.
-
-Este perfil reúne proyectos que hice, cosas que estoy aprendiendo y código que sigo manteniendo. No tengo todas las respuestas ni pretendo saber de todo: me gusta probar, equivocarme, investigar y seguir construyendo.
+</div>
 
 ---
 
-## Proyectos y experiencia
+Tengo 19 y estoy metiéndome en el mundo de la tecnología. Me fascina romper cosas, porque es la mejor forma de aprender que encontré. Me llama mucho la atención entender cómo se comporta el usuario en una aplicación, por qué un botón debería ir de un color y no de otro, y todo lo que tiene que ver con el copy que vive adentro de una interfaz.
 
-**Tapco** — Soy founder de Tapco, un producto para que los negocios reciban y entiendan la opinión de sus clientes a través de NFC y códigos QR. Estoy muy orgulloso de construirlo y de seguir aprendiendo durante el proceso.
+Esta página junta lo que estoy construyendo ahora. Si querés charlar de alguno, escribime.
 
-[tapco.app](http://tapco.app/)
+## Lo que estoy construyendo
 
-**mcp-verify** — Herramienta open source para auditar la seguridad de servidores MCP.
+<table>
+<tr>
+<td width="140" valign="top">
 
-[github.com/FinkTech/mcp-verify](https://github.com/FinkTech/mcp-verify)
+**[Tapco](https://tapco.app)**
 
-He colaborado en algunos proyectos para negocios locales, principalmente en desarrollo web e ideas de automatización. Todavía estoy aprendiendo y busco experiencias que me permitan mejorar haciendo.
+</td>
+<td valign="top">
 
-**NCM Pro** — Proyecto discontinuado de una aplicación para despachantes de aduana argentinos. Fui su único desarrollador; ya no formo parte del proyecto, pero mantengo su código.
+Feedback para negocios con NFC y QR. El cliente toca un sticker, el negocio entiende lo que pasó.
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## Tecnologías que uso
+**[Craft Panel](https://github.com/finktech-dev/craft-panel)**
 
-[![Tecnologías](https://skillicons.dev/icons?i=electron,nextjs,ts,nodejs,react,sqlite,prisma)](https://skillicons.dev)
+</td>
+<td valign="top">
 
----
+Panel open-source para montar un servidor de Minecraft sin pelearse con la terminal.
 
-## Fuera del código
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Gaming, contenido y redes sociales, emprendedorismo. También estoy empezando a meterme en economía y finanzas.
+**[llm-zip](https://github.com/finktech-dev/llm-zip)**
 
----
+</td>
+<td valign="top">
+
+CLI que comprime prompts largos antes de mandarlos a un modelo. Menos tokens, mismo resultado.
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-1a1612?style=flat&logo=nextdotjs&logoColor=d9cfbf" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1612?style=flat&logo=typescript&logoColor=d9cfbf" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-1a1612?style=flat&logo=python&logoColor=d9cfbf" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1612?style=flat&logo=fastapi&logoColor=d9cfbf" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-1a1612?style=flat&logo=docker&logoColor=d9cfbf" alt="Docker" />
+  <img src="https://img.shields.io/badge/Playwright-1a1612?style=flat&logo=playwright&logoColor=d9cfbf" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Claude-1a1612?style=flat&logo=anthropic&logoColor=d9cfbf" alt="Claude" />
+</p>
 
 ## Actividad
-
-![GitHub Streak](https://streak-stats.demolab.com?user=finktech-dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finktech-dev&theme=github_dark)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finktech-dev/finktech-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/finktech-dev/finktech-dev/output/github-contribution-grid-snake.svg">
-  <img alt="Animación de serpiente sobre el gráfico de contribuciones" src="https://raw.githubusercontent.com/finktech-dev/finktech-dev/output/github-contribution-grid-snake.svg">
+  <img alt="Snake sobre el grafo de contribuciones" src="https://raw.githubusercontent.com/finktech-dev/finktech-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Hablar
+
+Si estás construyendo algo y pensás que puedo sumar, o estás pensando en un copy y querés una segunda opinión, escribime.
+
+<p>
+  <a href="https://ar.linkedin.com/in/ariel-fink"><img src="https://img.shields.io/badge/LinkedIn-ariel--fink-1a1612?style=flat&logo=linkedin&logoColor=d9cfbf" alt="LinkedIn" /></a>
+  <a href="mailto:fink.digitalhub@gmail.com"><img src="https://img.shields.io/badge/Email-fink.digitalhub%40gmail.com-1a1612?style=flat&logo=gmail&logoColor=d9cfbf" alt="Email" /></a>
+  <a href="https://x.com/finktech_"><img src="https://img.shields.io/badge/X-%40finktech__-1a1612?style=flat&logo=x&logoColor=d9cfbf" alt="X" /></a>
+</p>
+
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel%20Fink-0077B5?style=flat-square&logo=linkedin)](https://ar.linkedin.com/in/ariel-fink)
-[![X](https://img.shields.io/badge/X-@finktech__-000000?style=flat-square&logo=x)](https://x.com/finktech_)
-[![Email](https://img.shields.io/badge/Email-fink.digitalhub@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:fink.digitalhub@gmail.com)
+<details>
+<summary><sub><b>English version</b></sub></summary>
 
----
+<br>
 
-## English
+I'm 19 and getting into tech. I love breaking things apart — it's the best way I've found to learn. I'm drawn to how users behave inside an app, why a button should be one color and not another, and everything to do with the copy that lives inside an interface.
 
-I'm 19 years old and based in Buenos Aires, Argentina.
+Based in Buenos Aires, studying Communication at UBA.
 
-I'm studying Social Communication Sciences and learning development on my own. I'm interested in how digital products are built, the problems they solve, and how they affect the people who use them.
+**Currently building**
 
-This profile brings together projects I've built, things I'm learning, and code I continue to maintain. I don't have all the answers or claim to know everything; I like trying things, making mistakes, researching, and continuing to build.
+- **[Tapco](https://tapco.app)** — Feedback for brick-and-mortar businesses through NFC and QR. The customer taps a sticker, the business learns what happened.
+- **[Craft Panel](https://github.com/finktech-dev/craft-panel)** — Open-source panel to run a Minecraft server without touching the terminal.
+- **[llm-zip](https://github.com/finktech-dev/llm-zip)** — CLI that compresses long prompts before sending them to an LLM. Fewer tokens, same result.
 
-### Projects and experience
+This page gathers what I'm building now. If you want to chat about any of it, drop me a line.
 
-**Tapco** — I'm the founder of Tapco, a product that helps businesses collect and understand customer feedback through NFC and QR codes. I'm very proud to be building it and to keep learning throughout the process.
-
-[tapco.app](http://tapco.app/)
-
-**mcp-verify** — An open-source tool for auditing the security of MCP servers.
-
-[github.com/FinkTech/mcp-verify](https://github.com/FinkTech/mcp-verify)
-
-I've collaborated on a few projects for local businesses, mainly involving web development and automation ideas. I'm still learning and looking for experiences that help me improve by doing.
-
-**NCM Pro** — A discontinued desktop application for Argentine customs brokers. I was its only developer; I am no longer part of the project, but I maintain its code.
+</details>
